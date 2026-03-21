@@ -806,6 +806,3 @@ Top-level application loop.
 3. Quit → returns 0
 
 ---
-- per-file sections,
-- “Examples” showing typical interactive flows,
-- and a “Known issues / limitations” section (e.g., the single-node delete leak + `<conio.h>` portability).
